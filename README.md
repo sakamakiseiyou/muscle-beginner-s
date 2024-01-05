@@ -1,24 +1,56 @@
-# README
+<マッスルビギナーズ>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+サイト概要
 
-* System dependencies
+<筋トレ好き>
 
-* Configuration
+サイトテーマ
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+興味があること
 
-* Services (job queues, cache servers, search engines, etc.)
+* 筋トレ（コミュニティーサイト）
 
-* Deployment instructions
 
-* ...
+前職または学生時代の経験を元に活かせそうなもの
+
+* 看護専門学校にはいっていたので体のことについては普通の人より詳しいです
+
+
+
+テーマを選んだ理由
+
+自分は小学生の時から体を動かしたり筋トレするのが好きでした。しかし、筋トレするにも週に何時間すればいいのか、プロテインやEAA,BCAAなどいろんなサプリなどがありどれを買えばいいのかなどがよくわからず苦戦したので初心者が始めやすいサイトを作れば筋トレ始めたいひとが始めやすいと考えたからです。
+
+ターゲットユーザ
+
+* 筋トレ始めたい人
+
+
+
+主な利用シーン
+
+* 筋トレ始めたい人におすすめのサプリや筋トレ方法を知りたい人
+
+
+
+設計書
+
+後ほど作成予定
+
+
+開発環境
+
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+
+
+使用素材
+
+* 使用検討中
